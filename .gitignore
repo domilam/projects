@@ -1,0 +1,25 @@
+# Python files
+*.pyc
+__pycache__/
+*.egg-info/
+.mypy*
+.DS_Store
+docs/_build/
+
+# Virtualenv files
+.venv
+venv/
+
+# pytest
+.pytest_cache
+
+# IDEs and code editors
+.vscode/
+
+# coverage and reports
+.coverage
+reports/
+
+# misc
+config-local.yaml
+.env
